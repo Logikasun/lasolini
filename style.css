@@ -1,0 +1,69 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/375/040/small_2x/modern-white-background-free-vector.jpg");
+    color: rgb(0, 225, 255);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.art {
+    background-color: rgb(8, 241, 229);
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+    max-width: 800px;
+    color: rgb(0, 0, 0);
+}
+
+nav {
+    background-color: rgba(8, 241, 230, 0.945);
+
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 200);
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 0, 200);
+}
+
+.pic {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(8, 241, 230, 0.945);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border: 3px solid black;
+    margin: 10px auto;
+}
+
+td {
+    border: 5px solid black;
+    padding: 10px;
+    color: black;
+}
+
+.center{
+    text-align: center;
+    background-color: rgb(8, 241, 229);
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+    max-width: 800px;
+    color: rgb(0, 0, 0);
+}
